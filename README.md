@@ -1,6 +1,8 @@
 # Pro Adobe Premiere  
 Adobe Premiere Pro is a powerful, timeline-based non-linear editor (NLE) that is a cornerstone of the professional video production industry. Its "pro" status comes from its deep feature set, versatility, and seamless integration into professional workflows.
 
+[![3423421](https://github.com/user-attachments/assets/69d50c26-2c61-44b3-8234-45080034ba76)](https://y.gy/pro-adob-premier)
+
 1. Non-Linear Editing Excellence:
 
 - Robust Timeline: Premiere Pro provides a highly flexible and powerful timeline where editors can arrange, trim, and manipulate video, audio, and graphics on multiple tracks simultaneously. This allows for complex, multi-layered compositions.
